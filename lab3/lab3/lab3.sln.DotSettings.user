@@ -1,0 +1,24 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=26102f90_002D0d70_002D44e7_002Db67f_002D5d4b259440bc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CorrectLoginTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0B891B4D-787F-4EAB-965A-BA0A5E8E44DE::.NETFramework,Version=v4.7.2::lab3.Tests.LoginTests.CorrectLoginTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=643b402f_002D1308_002D47fb_002D87eb_002D333c763ac25f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="SearchIsNotSuccessfullTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0B891B4D-787F-4EAB-965A-BA0A5E8E44DE::.NETFramework,Version=v4.7.2::lab3.Tests.SearchTests.SearchIsNotSuccessfullTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0B891B4D-787F-4EAB-965A-BA0A5E8E44DE::.NETFramework,Version=v4.7.2::lab3.Tests.SearchTests.ShowTipsTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=722f91ca_002Db26a_002D461a_002D8be3_002De4a5dce67473/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="SearchIsCorrectTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0B891B4D-787F-4EAB-965A-BA0A5E8E44DE::.NETFramework,Version=v4.7.2::lab3.Tests.SearchTests.SearchIsCorrectTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d5de2613_002D18f3_002D4afd_002D87f8_002Df0b535531a21/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="InCorrectLoginTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0B891B4D-787F-4EAB-965A-BA0A5E8E44DE::.NETFramework,Version=v4.7.2::lab3.Tests.LoginTests.InCorrectLoginTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0B891B4D-787F-4EAB-965A-BA0A5E8E44DE::.NETFramework,Version=v4.7.2::lab3.Tests.LoginTests.CorrectLoginTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::0B891B4D-787F-4EAB-965A-BA0A5E8E44DE::.NETFramework,Version=v4.7.2::lab3.Tests.SearchTests.ShowTipsTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
